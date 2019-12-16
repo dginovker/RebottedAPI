@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RebottedAPI:jar">
+    <output-path>$USER_HOME$/.2006rebotted_file_system</output-path>
+    <root id="archive" name="RebottedAPI.jar">
+      <element id="module-output" name="RebottedAPI" />
+    </root>
+  </artifact>
+</component>
