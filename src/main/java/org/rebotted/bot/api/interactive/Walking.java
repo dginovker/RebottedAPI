@@ -1,6 +1,6 @@
 package org.rebotted.bot.api.interactive;
 
-import org.rebotted.bot.api.wrappers.Tile;
+import org.rebotted.bot.api.wrappers.location.Tile;
 import org.rebotted.bot.core.Core;
 
 public class Walking {

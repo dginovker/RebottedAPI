@@ -1,4 +1,4 @@
-package org.rebotted.bot.api.wrappers;
+package org.rebotted.bot.api.wrappers.entities;
 
 
 import org.rebotted.cache.def.NpcDefinition;

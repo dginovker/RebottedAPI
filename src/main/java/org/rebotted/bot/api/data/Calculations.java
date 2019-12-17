@@ -1,7 +1,7 @@
 package org.rebotted.bot.api.data;
 
 import org.rebotted.bot.api.interactive.Players;
-import org.rebotted.bot.api.wrappers.Tile;
+import org.rebotted.bot.api.wrappers.location.Tile;
 
 
 public class Calculations {

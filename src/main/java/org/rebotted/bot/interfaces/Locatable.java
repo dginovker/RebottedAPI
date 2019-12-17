@@ -1,7 +1,7 @@
 package org.rebotted.bot.interfaces;
 
 
-import org.rebotted.bot.api.wrappers.Tile;
+import org.rebotted.bot.api.wrappers.location.Tile;
 
 public interface Locatable {
 

@@ -2,7 +2,7 @@ package org.rebotted.bot.core;
 
 import org.rebotted.Client;
 import org.rebotted.bot.api.interactive.Npcs;
-import org.rebotted.bot.api.wrappers.NPC;
+import org.rebotted.bot.api.wrappers.entities.NPC;
 import org.rebotted.bot.data.APIManifest;
 import org.rebotted.bot.data.RebottedAPI;
 

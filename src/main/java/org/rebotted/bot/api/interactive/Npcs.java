@@ -1,7 +1,7 @@
 package org.rebotted.bot.api.interactive;
 
-import org.rebotted.bot.api.wrappers.Character;
-import org.rebotted.bot.api.wrappers.NPC;
+import org.rebotted.bot.api.wrappers.entities.Character;
+import org.rebotted.bot.api.wrappers.entities.NPC;
 import org.rebotted.bot.core.Core;
 import org.rebotted.entity.Npc;
 import org.rebotted.util.Filter;

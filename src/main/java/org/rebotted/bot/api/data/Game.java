@@ -5,8 +5,6 @@ import org.rebotted.bot.core.Core;
 
 public class Game {
 
-    private static boolean forcingAction = false;
-
     public static int getOpenInterfaceId() {
         return Client.openInterfaceId;
     }

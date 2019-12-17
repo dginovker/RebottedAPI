@@ -1,10 +1,11 @@
-package org.rebotted.bot.api.wrappers;
+package org.rebotted.bot.api.wrappers.entities;
 
 
 import org.rebotted.bot.api.data.Calculations;
 import org.rebotted.bot.api.data.Game;
 import org.rebotted.bot.api.interaction.InteractionHandler;
 import org.rebotted.bot.api.interactive.Players;
+import org.rebotted.bot.api.wrappers.location.Tile;
 import org.rebotted.bot.core.Core;
 import org.rebotted.bot.interfaces.Interactable;
 import org.rebotted.entity.Mob;

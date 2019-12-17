@@ -2,8 +2,8 @@ package org.rebotted.bot.api.interactive;
 
 
 import org.rebotted.Client;
-import org.rebotted.bot.api.wrappers.Character;
-import org.rebotted.bot.api.wrappers.Player;
+import org.rebotted.bot.api.wrappers.entities.Character;
+import org.rebotted.bot.api.wrappers.entities.Player;
 import org.rebotted.bot.core.Core;
 import org.rebotted.util.Filter;
 

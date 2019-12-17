@@ -1,4 +1,4 @@
-package org.rebotted.bot.api.wrappers;
+package org.rebotted.bot.api.wrappers.location;
 
 
 import org.rebotted.bot.api.data.Calculations;
